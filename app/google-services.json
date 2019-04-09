@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "966854490885",
+    "firebase_url": "https://ronald-20501.firebaseio.com",
+    "project_id": "ronald-20501",
+    "storage_bucket": "ronald-20501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966854490885:android:c63bb4841de4d812",
+        "android_client_info": {
+          "package_name": "comp.wall.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlQAVeJri7xR5QlNNhtvKmTp_DlnA-48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966854490885-42opbbu1mpcn10idshc96u7kgtrva577.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
